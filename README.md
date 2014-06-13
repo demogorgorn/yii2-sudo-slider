@@ -1,4 +1,4 @@
-Yii2 Superfish jQuery menu widget
+Yii2 SudoSlider jQuery widget
 =====================================
 
 This is the Yii2 SudoSlider widget that renders a nice looking slider (http://webbies.dk/SudoSlider/index.html). 
