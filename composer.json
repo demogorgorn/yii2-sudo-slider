@@ -1,0 +1,23 @@
+{
+	"name": "demogorgorn/yii2-sudo-slider",
+	"description": "Yii2 jQuery Sudo Slider widget",
+	"keywords": ["yii2", "slider", "extension", "widget"],
+	"homepage": "https://github.com/demogorgorn/yii2-sudo-slider",
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Oleg Martemjanov",
+			"email": "demogorgorn@gmail.com",
+			"homepage" : "http://foreign.by"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"demogorgorn\\sudoslider\\": ""
+		}
+	}
+}
