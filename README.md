@@ -11,7 +11,7 @@ echo \demogorgorn\uikit\sudoslider\Sudoslider::widget([
       'ajax' => [
          \Yii::$app->request->getBaseUrl() . '/images/slider/01.jpg',
          \Yii::$app->request->getBaseUrl() . '/images/slider/02.jpg',
-         \Yii::$app->request->getBaseUrl() . '/images/slider/03.jpg',
+         \Yii::$app->request->getBaseUrl() . '/images/slider/09.jpg',
       ],
       'numeric' => false,
       'continuous' => true,
